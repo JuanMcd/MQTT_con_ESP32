@@ -6,8 +6,8 @@
 // 1. CONFIGURACIÓN WiFi Y MQTT
 // ============================
 
-const char* ssid = "A55 de Juan";                // Nombre de la red WiFi
-const char* password = "12345678";       // Contraseña de la red WiFi
+const char* ssid = "";                // Nombre de la red WiFi
+const char* password = "";       // Contraseña de la red WiFi
 const char* mqtt_server = "test.mosquitto.org";  // Broker MQTT público
 
 /*Broker públicos gratuitos:
